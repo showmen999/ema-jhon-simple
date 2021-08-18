@@ -1,0 +1,25 @@
+.shop-container
+{
+    display: flex;
+}
+.product-container
+{
+    width: 75%;
+    margin-left: 20px;
+    margin-right: 5px;
+    margin-top: 5px;
+    border-right: 1px solid lightgray;
+}
+.special
+{
+    text-align: center;
+}
+.cart-container p
+{
+    font-size: 13px;
+}
+.color
+{
+    color: chocolate;
+    font-size: 20px;
+}
